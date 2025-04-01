@@ -130,8 +130,8 @@ The following modules were tested:
 ## Approval
 
 ✅ **Prepared by:** Shivendra Singh  
-✅ **Reviewed by:** LightningProxies Team  
-✅ **Approved by:** LightningProxies   
+✅ **Reviewed by:** Self Reviewed 
+✅ **Approved by:** QA lead
 
 ---
 
