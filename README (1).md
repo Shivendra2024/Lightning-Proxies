@@ -131,28 +131,8 @@ The following modules were tested:
 
 ✅ **Prepared by:** Shivendra Singh  
 ✅ **Reviewed by:** LightningProxies Team  
-✅ **Approved by:** LightningProxies  
+✅ **Approved by:** LightningProxies   
 
 ---
 
-## How to Use This Repository?
-1. **Clone the Repository**:
-   ```sh
-   git clone https://github.com/Shivendra2024/LightningProxies-Testing.git
-   cd LightningProxies-Testing
-   ```
-2. **Review Test Cases**: Check `TestCases.xlsx` for detailed test cases.  
-3. **Bug Reports**: Refer to `BugReport.xlsx` for reported issues.  
-4. **Execution Logs**: Review `TestExecutionSummary.md` for execution results.  
-
----
-
-## Contact Information
-🔹 **Shivendra Singh**  
-📧 **Email**: [shivendramasai2024@gmail.com](mailto:shivendramasai2024@gmail.com)  
-🔗 **LinkedIn**: [linkedin.com/in/shivendra-singh](https://www.linkedin.com/in/shivendra-singh-175149285/)  
-👨‍💻 **GitHub**: [Shivendra2024](https://github.com/Shivendra2024)  
-
----
-
-This **README.md** file provides a structured overview of the manual testing conducted for **LightningProxies**. 🚀
+This **README.md** file provides a structured overview of the testing conducted for **LightningProxies**. 🚀
