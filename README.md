@@ -1,4 +1,4 @@
-LightningProxies - Testing Project
+#LightningProxies - Testing Project
 Overview
 This repository contains the manual testing strategy and execution details for LightningProxies, a comprehensive proxy service provider. The testing was conducted to ensure that all core functionalities work as expected and meet business requirements.
 
